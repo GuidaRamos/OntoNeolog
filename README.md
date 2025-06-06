@@ -3,6 +3,8 @@ Ontology created under the scope of a Short-Term Scientific Mission Grant, withi
 
 The purpose of this STSM was to formally implement outcomes determined by  ongoing work in Task 1.3 – Domain and Knowledge Organisation. For this formal implementation, we decided to use the ontology editor Protégé  to build on the framework of Sablayrolles(2017), whose meta-terminology allowed us (1) to identify 23 concepts classified as either types of result or types of process and – based on the latter – (2) to determine the subdomains of Linguistics under which lexical innovation phenomena fall. 
 
+![OntoNeolog](https://repository-images.githubusercontent.com/997593553/db17a3b1-f659-4306-974a-6902e05cd640)
+
 The ontology is being built as a complementary component of the [ENEOLI wikibase](https://eneoli.wikibase.cloud/wiki/Main_Page). Its logical constructs aim to enhance knowledge organisation, providing a structured foundation to support and improve decision-making in the process of modelling the Wikibase's concepts.
 
 OntoNeolog is currently in progress. Out of the 23 concepts mentioned above,  we have primarily focused on morphosyntactic-related processes and their corresponding outcomes. Instead of being related through flat hierarchies, concepts are described by the declaration of  their characteristics,  for which a total of 60 classes were necessary to be considered. 
