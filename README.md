@@ -11,6 +11,6 @@ The instances are examples sourced from Sablayrolles (2017). Most of the annotat
 
 The concepts defined here are classified by the reasoner according to 3 axes of analysis:
 
-  the linguistic domain to which they belong;
-  their role in a process of lexical innovation; or
-  their status as a lexical outcome (also known as a lexical unit).
+    the linguistic domain to which they belong;
+    their role in a process of lexical innovation; or
+    their status as a lexical outcome (also known as a lexical unit).
