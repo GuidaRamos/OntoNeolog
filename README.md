@@ -1,7 +1,5 @@
 # OntoNeolog
-Ontology created under the scope of a Short-Term Scientific Mission Grant, within the [Cost Action CA22126 - European Network On Lexical Innovation (ENEOLI).](https://www.cost.eu/actions/CA22126/)
-
-The purpose of this STSM was to formally implement outcomes determined by  ongoing work in Task 1.3 – Domain and Knowledge Organisation. For this formal implementation, we decided to use the ontology editor Protégé  to build on the framework of Sablayrolles(2017), whose meta-terminology allowed us (1) to identify 23 concepts classified as either types of result or types of process and – based on the latter – (2) to determine the subdomains of Linguistics under which lexical innovation phenomena fall. 
+The purpose of this work is to formally implement outcomes determined by  ongoing work in Task 1.3 – Domain and Knowledge Organisation. For this formal implementation, we decided to use the ontology editor Protégé  to build on the framework of Sablayrolles(2017), whose meta-terminology allowed us (1) to identify 23 concepts classified as either types of result or types of process and – based on the latter – (2) to determine the subdomains of Linguistics under which lexical innovation phenomena fall. 
 
 ![OntoNeolog](https://repository-images.githubusercontent.com/997593553/db17a3b1-f659-4306-974a-6902e05cd640)
 
@@ -16,3 +14,6 @@ The concepts defined here are classified by the reasoner according to 3 axes of 
     the linguistic domain to which they belong;
     their role in a process of lexical innovation; or
     their status as a lexical outcome (also known as a lexical unit).
+# Acknowledgements
+Ontology created under the scope of a Short-Term Scientific Mission Grant, within the [Cost Action CA22126 - European Network On Lexical Innovation (ENEOLI).](https://www.cost.eu/actions/CA22126/)
+
