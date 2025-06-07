@@ -7,7 +7,7 @@ The ontology is being built as a complementary component of the [ENEOLI wikibase
 
 OntoNeolog is currently in progress. Out of the 23 concepts mentioned above,  we have primarily focused on morphosyntactic-related processes and their corresponding outcomes. Instead of being related through flat hierarchies, concepts are described by the declaration of  their characteristics,  for which a total of 60 classes were necessary to be considered. 
 
-The instances are examples sourced from Sablayrolles (2017). Most of the annotated natural language definitions (dc:description) and  terms  (rdfs:label) are retained from the ENEOLI wikibase. In their absence, other authoring resources are used, such as online dictionaries.
+The instances are examples sourced from Sablayrolles (2017). Most of the annotated natural language definitions (dc:description) and  terms  (rdfs:label) correspond to the terminological data available in the ENEOLI wikibase. In their absence, authoring resources are used, such as online linguistic resources.
 
 The concepts defined here are classified by the reasoner according to 3 axes of analysis:
 
