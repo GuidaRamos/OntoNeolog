@@ -15,5 +15,5 @@ The concepts defined here are classified by the reasoner according to 3 axes of 
     their role in a process of lexical innovation; or
     their status as a lexical outcome (also known as a lexical unit).
 # Acknowledgements
-Ontology created under the scope of a Short-Term Scientific Mission Grant, within the [Cost Action CA22126 - European Network On Lexical Innovation (ENEOLI).](https://www.cost.eu/actions/CA22126/)
+[Cost Action CA22126 - European Network On Lexical Innovation (ENEOLI).](https://www.cost.eu/actions/CA22126/)
 
